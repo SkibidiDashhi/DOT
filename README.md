@@ -26,3 +26,30 @@ Paste your token and chat ID
 Now you can run it
 
 channel: <a href="https://t.me/MrEsfelurm"> Telegram 
+
+
+----------------------------
+
+
+# Vip
+
+This tool also has a VIP version (with cli/gui server and telegram bot) 
+
+Features:
+
+Various update methods in layers 3/4/7
+
+Immediately hidden in the client system
+
+Stylish admin panel
+
+Ability to have reverse shell from all clients
+
+Ability to attack with one client
+
+Ability to attack with all clients
+
+Get host checks from target
+
+Get proxy
+
