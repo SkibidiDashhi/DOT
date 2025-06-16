@@ -1,12 +1,12 @@
 ## Ddos-On-Telegram
 
-Ddos tool with control capabilities in Telegram!
+<h2>Ddos tool with control capabilities in Telegram!</h2>
 
 <img src="https://github.com/Mr-Spect3r/my/blob/main/Screenshot_20250616_011851_Telegram.jpg"> 
 
 <img src="https://github.com/Mr-Spect3r/my/blob/main/Screenshot_20250616_012316_Telegram.jpg"> 
 
-
+<b>
 Features: 
 
 Has POST, GET, HEAD, SKY, HTTP2, PXHTTP2, SPOOF, PXRAW, PXSOC, SOC, UDP, TCP methods
@@ -42,11 +42,11 @@ Paste your token and chat ID
 
 Now you can run it
 
-channel: <a href="https://t.me/MrEsfelurm"> Telegram 
+channel:</b> <a href="https://t.me/MrEsfelurm"> Telegram 
 
 
 ----------------------------
-
+<b>
 
 # Vip
 
@@ -69,7 +69,7 @@ Ability to attack with all clients
 Get host checks from target
 
 Get proxy
-
+</b>
 
 # Screenshot
 
@@ -80,3 +80,5 @@ Get proxy
 <img src="https://github.com/Mr-Spect3r/my/blob/main/IMG_20250616_023356_473.jpg"> 
 
 <img src="https://github.com/Mr-Spect3r/my/blob/main/IMG_20250616_023356_995.jpg"> 
+
+buy:</b> <a href="https://t.me/MrEsfelurm"> admin
