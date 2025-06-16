@@ -17,6 +17,23 @@ Ability to download proxy
 
 Ability to run on Android / Windows / Linux
 
+
+## Required libraries
+
+- telebot
+
+- requests
+
+- cloudscraper
+
+- pysocks
+
+- httpx
+
+- psutil
+
+- undetected_chromedriver
+
 # Setup
 
 Open the attack.py file
