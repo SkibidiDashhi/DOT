@@ -7,15 +7,40 @@
 <img src="https://github.com/Mr-Spect3r/my/blob/main/Screenshot_20250616_012316_Telegram.jpg"> 
 
 <b>
-Features: 
+  
+### Features: 
 
-Has POST, GET, HEAD, SKY, HTTP2, PXHTTP2, SPOOF, PXRAW, PXSOC, SOC, UDP, TCP methods
+- methods:
 
-Ability to Ping the site
+  - POST
+  
+  - GET
+  
+  - HEAD
+  
+  - SKY
+  
+  - HTTP2
+  
+  - PXHTTP2
+  
+  - SPOOF
+  
+  - PXRAW
+  
+  - PXSOC
+  
+  - SOC
+  
+  - UDP
+  
+  - TCP
 
-Ability to download proxy
+- Ability to Ping the site
 
-Ability to run on Android / Windows / Linux
+- Ability to download proxy
+
+- Ability to run on Android / Windows / Linux
 
 
 ## Required libraries
